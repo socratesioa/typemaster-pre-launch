@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/socratesioa/typemaster-pre-launch)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://socratesioa.github.io/typemaster-pre-launch/)
 
 ## My process
 
